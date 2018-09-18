@@ -1,0 +1,12 @@
+header {
+  height: 60px;
+  background-color: #444;
+  color: white;
+}
+
+header h1 {
+  float: left;
+  padding-left: 20px;
+  margin: 0;
+  line-height: 60px;
+}
